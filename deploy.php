@@ -5,7 +5,7 @@ namespace Deployer;
 require 'recipe/laravel.php';
 
 set('application', 'Keys');
-set('repository', 'git@github.com:SjorsO/keys.git');
+set('repository', 'git@github.com:riteshska/keys.git');
 set('git_tty', true);
 set('keep_releases', 3);
 
